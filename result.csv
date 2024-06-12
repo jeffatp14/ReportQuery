@@ -1,0 +1,4 @@
+id,first_name,last_name,gender,email,date_of_birth,country_of_birth,car_id,id,make,model,price
+1,Delaney,Hender,Male,dhender0@amazon.co.jp,1998-11-30,Israel,1,1,Dodge,Intrepid,59013.12
+3,Paulita,Calrow,Female,pcalrow2@msu.edu,2000-12-28,China,2,2,Dodge,Caravan,33380.32
+2,Meg,Goose,Female,mgoose1@com.com,2013-02-12,China,,,,,
